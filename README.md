@@ -56,15 +56,6 @@
 - ⚡ **Optymalizacja serwerów** – narzędzia do zwiększania wydajności Minecrafta  
 - 🔒 **Systemy logowania** – bezpieczne rozwiązania dla graczy  
 
----
-
-## 🎲 Fun Facts
-- 🎮 Gram w Minecrafta od **2012 roku**  
-- 🔥 Lubię **low-level optymalizacje** i dłubanie w kodzie  
-- 🎧 Muzyka w tle = kod leci szybciej 🚀  
-
----
-
 ## 📫 Kontakt
 💬 Masz pomysł na projekt albo chcesz pogadać? Odezwij się! 🤝  
 
