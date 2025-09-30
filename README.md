@@ -76,7 +76,6 @@
     <img src="https://img.shields.io/badge/Discord-Pisz%20do%20mnie-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=100&section=footer" />
