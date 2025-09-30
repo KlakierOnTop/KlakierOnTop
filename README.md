@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Klakier%20On%20Top&fontSize=50&fontColor=fff&animation=twinkling" />
 </p>
@@ -7,6 +6,12 @@
 
 ☕ Pasjonat **programowania** i **świata Minecrafta** ⛏️  
 💡 Lubię tworzyć rozwiązania, które ułatwiają życie społeczności graczy  
+
+<p align="center">
+  <a href="https://wakatime.com/@a53a84a4-f2b1-4d54-a55c-2148c15f0c12">
+    <img src="https://wakatime.com/badge/user/a53a84a4-f2b1-4d54-a55c-2148c15f0c12.svg" alt="Total time coded since Apr 1 2025" />
+  </a>
+</p>
 
 ---
 
@@ -46,6 +51,12 @@
 
 ## ⏱️ Aktywność w kodzie (WakaTime)
 <p align="center">
+  <a href="https://wakatime.com/@a53a84a4-f2b1-4d54-a55c-2148c15f0c12">
+    <img src="https://wakatime.com/badge/user/a53a84a4-f2b1-4d54-a55c-2148c15f0c12.svg" alt="Total time coded since Apr 1 2025" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KlakierOnTop&theme=tokyonight&hide_border=true" alt="WakaTime stats" />
 </p>
 
@@ -55,6 +66,15 @@
 - 🧩 **Plugin AntiCheat** – system wykrywający nieuczciwych graczy  
 - ⚡ **Optymalizacja serwerów** – narzędzia do zwiększania wydajności Minecrafta  
 - 🔒 **Systemy logowania** – bezpieczne rozwiązania dla graczy  
+
+---
+
+## 🎲 Fun Facts
+- 🎮 Gram w Minecrafta od **2012 roku**  
+- 🔥 Lubię **low-level optymalizacje** i dłubanie w kodzie  
+- 🎧 Muzyka w tle = kod leci szybciej 🚀  
+
+---
 
 ## 📫 Kontakt
 💬 Masz pomysł na projekt albo chcesz pogadać? Odezwij się! 🤝  
@@ -66,7 +86,6 @@
 
 ---
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=100&section=footer" />
 </p>
