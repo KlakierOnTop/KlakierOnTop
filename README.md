@@ -1,13 +1,19 @@
-# 👋 Hej, jestem **Klakier**
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Klakier%20On%20Top&fontSize=50&fontColor=fff&animation=twinkling" />
+</p>
 
-☕ Programista z pasją do **Javy** i świata **Minecrafta** ⛏️  
+# 👋 Siema, jestem **Klakier**
+
+☕ Pasjonat **programowania** i **świata Minecrafta** ⛏️  
+💡 Lubię tworzyć rozwiązania, które ułatwiają życie społeczności graczy  
 
 ---
 
-## ⚡ Specjalizacja
-- 🔌 Pisanie **pluginów do Minecrafta**  
-- 🌍 Tworzenie i optymalizacja **serwerów Minecraft**  
-- 🛠️ Budowanie customowych rozwiązań dla społeczności  
+## ⚡ Moja specjalizacja
+- 🔌 **Pluginy do Minecrafta** (Spigot / PaperMC)  
+- 🌍 Optymalizacja i konfiguracja **serwerów Minecraft**  
+- 🛠️ Pisanie narzędzi oraz automatyzacja zadań  
 
 ---
 
@@ -32,17 +38,44 @@
 
 ## 📊 Statystyki GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KlakierOnTop&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KlakierOnTop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KlakierOnTop&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
 ## ⏱️ Aktywność w kodzie (WakaTime)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KlakierOnTop&theme=tokyonight" alt="WakaTime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KlakierOnTop&theme=tokyonight&hide_border=true" alt="WakaTime stats" />
 </p>
 
 ---
 
+## 🌟 Projekty warte uwagi
+- 🧩 **Plugin AntiCheat** – system wykrywający nieuczciwych graczy  
+- ⚡ **Optymalizacja serwerów** – narzędzia do zwiększania wydajności Minecrafta  
+- 🔒 **Systemy logowania** – bezpieczne rozwiązania dla graczy  
+
+---
+
+## 🎲 Fun Facts
+- 🎮 Gram w Minecrafta od **2012 roku**  
+- 🔥 Lubię **low-level optymalizacje** i dłubanie w kodzie  
+- 🎧 Muzyka w tle = kod leci szybciej 🚀  
+
+---
+
 ## 📫 Kontakt
-💬 Chcesz pogadać albo współpracować? Odezwij się! 🤝
+💬 Masz pomysł na projekt albo chcesz pogadać? Odezwij się! 🤝  
+
+<p align="center">
+  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:twojmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=100&section=footer" />
+</p>
