@@ -60,6 +60,8 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KlakierOnTop&theme=tokyonight&hide_border=true" alt="WakaTime stats" />
 </p>
 
+![KlakierOnTop](https://github-readme-activity-graph.vercel.app/graph?username=00fr3szuuu&custom_title=KlakierOnTop%20Wykres%20Aktywności%20Github&bg_color=1a1b27&color=FFFFFF&line=0080ff&point=0040ff&area_color=0080ff&title_color=FFFFFF&area=true&hide_border=true)
+
 ---
 
 ## 🌟 Projekty warte uwagi
