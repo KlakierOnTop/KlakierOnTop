@@ -1,4 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=00fr3szuuu">
+<a href="https://komarev.com/ghpvc/?username=KlakierOnTop">
   <img align="right" src="https://komarev.com/ghpvc/?username=KlakierOnTop&label=Odwiedzający&color=0e75b6&style=flat" alt="Licznik odwiedzających" />
 </a>
 
