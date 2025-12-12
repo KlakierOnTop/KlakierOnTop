@@ -6,10 +6,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Klakier%20On%20Top&fontSize=50&fontColor=fff&animation=twinkling" />
 </p>
 
-# 👋 Siema, jestem **Klakier**
+Jestem programistą i osobą silnie związaną ze środowiskiem Minecraft.  
+Zajmuję się tworzeniem rozwiązań technicznych, optymalizacją oraz rozwojem infrastruktury serwerowej.
 
-☕ Pasjonat **programowania** i **świata Minecrafta** ⛏️  
-💡 Lubię tworzyć rozwiązania, które ułatwiają życie społeczności graczy  
+Na co dzień prowadzę prace techniczne i administracyjne na serwerach Minecraft:  
+- CastleMC – Administracja i zarządzanie infrastrukturą techniczną serwera
+- SelfMC – Administracja i zarządzanie infrastrukturą techniczną serwera
+- FamHub – Administracja i zarządzanie infrastrukturą techniczną serwera
+
+Moim celem jest zapewnianie wydajnych, przejrzystych i bezawaryjnych rozwiązań.
 
 <p align="center">
   <a href="https://wakatime.com/@a53a84a4-f2b1-4d54-a55c-2148c15f0c12">
@@ -19,14 +24,15 @@
 
 ---
 
-## ⚡ Moja specjalizacja
-- 🔌 **Pluginy do Minecrafta** (Spigot / PaperMC)  
-- 🌍 Optymalizacja i konfiguracja **serwerów Minecraft**  
-- 🛠️ Pisanie narzędzi oraz automatyzacja zadań  
+## Specjalizacja
+- Tworzenie pluginów do Minecrafta (Spigot / PaperMC)  
+- Optymalizacja i konfiguracja serwerów Minecraft  
+- Budowa narzędzi, automatyzacja i backend
+- Pisanie całych systemów pod serwer (max 15 pl)
 
 ---
 
-## 🛠️ Technologie i narzędzia
+## Technologie i narzędzia
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -45,14 +51,14 @@
 
 ---
 
-## 📊 Statystyki GitHub
+## Statystyki GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KlakierOnTop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 ---
 
-## ⏱️ Aktywność w kodzie (WakaTime)
+## Aktywność
 <p align="center">
   <a href="https://wakatime.com/@a53a84a4-f2b1-4d54-a55c-2148c15f0c12">
     <img src="https://wakatime.com/badge/user/a53a84a4-f2b1-4d54-a55c-2148c15f0c12.svg" alt="Total time coded since Apr 1 2025" />
@@ -67,18 +73,10 @@
 
 ---
 
-## 🌟 Projekty warte uwagi
-- 🧩 **Plugin AntiCheat** – system wykrywający nieuczciwych graczy  
-- ⚡ **Optymalizacja serwerów** – narzędzia do zwiększania wydajności Minecrafta  
-- 🔒 **Systemy logowania** – bezpieczne rozwiązania dla graczy  
-
----
-
-## 📫 Kontakt
-💬 Masz pomysł na projekt albo chcesz pogadać? Odezwij się! 🤝  
+## Kontakt
 <p align="center">
   <a href="https://discord.com/users/1055766707387506760">
-    <img src="https://img.shields.io/badge/Discord-Pisz%20do%20mnie-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Kontakt-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
