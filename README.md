@@ -13,6 +13,7 @@ Na co dzień prowadzę prace techniczne i administracyjne na serwerach Minecraft
 - CastleMC – Administracja i zarządzanie infrastrukturą techniczną serwera
 - SelfMC – Administracja i zarządzanie infrastrukturą techniczną serwera
 - FamHub – Administracja i zarządzanie infrastrukturą techniczną serwera
+- StormCode - Java Developer 
 
 Moim celem jest zapewnianie wydajnych, przejrzystych i bezawaryjnych rozwiązań.
 
