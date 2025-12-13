@@ -6,16 +6,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Klakier%20On%20Top&fontSize=50&fontColor=fff&animation=twinkling" />
 </p>
 
-Jestem programistą i osobą silnie związaną ze środowiskiem Minecraft.  
-Zajmuję się tworzeniem rozwiązań technicznych, optymalizacją oraz rozwojem infrastruktury serwerowej.
+## O mnie
 
-Na co dzień prowadzę prace techniczne i administracyjne na serwerach Minecraft:  
-- CastleMC – Administracja i zarządzanie infrastrukturą techniczną serwera
-- SelfMC – Administracja i zarządzanie infrastrukturą techniczną serwera
-- FamHub – Administracja i zarządzanie infrastrukturą techniczną serwera
-- StormCode - Java Developer 
+Jestem **programistą** i osobą silnie związaną ze **środowiskiem Minecraft**. Zajmuję się tworzeniem rozwiązań technicznych, optymalizacją oraz rozwojem **infrastruktury serwerowej**.
 
-Moim celem jest zapewnianie wydajnych, przejrzystych i bezawaryjnych rozwiązań.
+Moim celem jest zapewnianie **wydajnych, przejrzystych i bezawaryjnych rozwiązań**.
 
 <p align="center">
   <a href="https://wakatime.com/@a53a84a4-f2b1-4d54-a55c-2148c15f0c12">
@@ -25,11 +20,22 @@ Moim celem jest zapewnianie wydajnych, przejrzystych i bezawaryjnych rozwiązań
 
 ---
 
+## Doświadczenie w Minecraft
+
+Na co dzień prowadzę prace techniczne i administracyjne na serwerach Minecraft:  
+
+* **CastleMC** – Administracja i zarządzanie infrastrukturą techniczną
+* **SelfMC** – Administracja i zarządzanie infrastrukturą techniczną
+* **FamHub** – Administracja i zarządzanie infrastrukturą techniczną
+* **StormCode** - Java Developer 
+
+---
+
 ## Specjalizacja
-- Tworzenie pluginów do Minecrafta (Spigot / PaperMC)  
-- Optymalizacja i konfiguracja serwerów Minecraft  
-- Budowa narzędzi, automatyzacja i backend
-- Pisanie całych systemów pod serwer (max 15 pl)
+* Tworzenie pluginów do Minecrafta (**Spigot** / **PaperMC**)  
+* **Optymalizacja** i konfiguracja serwerów Minecraft  
+* Budowa narzędzi, automatyzacja i backend
+* Pisanie całych systemów pod serwer (max 15 pl)
 
 ---
 
@@ -53,17 +59,18 @@ Moim celem jest zapewnianie wydajnych, przejrzystych i bezawaryjnych rozwiązań
 
 ---
 
-![KlakierOnTop](https://github-readme-activity-graph.vercel.app/graph?username=00fr3szuuu&custom_title=KlakierOnTop%20Wykres%20Aktywności%20Github&bg_color=1a1b27&color=FFFFFF&line=0080ff&point=0040ff&area_color=0080ff&title_color=FFFFFF&area=true&hide_border=true)
+## Aktywność Github
+
+![KlakierOnTop](https://github-readme-activity-graph.vercel.app/graph?username=00fr3szuuu&custom_title=Aktywność%20Github&bg_color=1a1b27&color=FFFFFF&line=0080ff&point=0040ff&area_color=0080ff&title_color=FFFFFF&area=true&hide_border=true)
 
 ---
 
 ## Kontakt
+
+Skontaktuj się ze mną przez **Discord**:
+
 <p align="center">
   <a href="https://discord.com/users/1055766707387506760">
     <img src="https://img.shields.io/badge/Discord-Kontakt-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Klakier%20On%20Top&fontSize=50&fontColor=fff&animation=twinkling" />
 </p>
