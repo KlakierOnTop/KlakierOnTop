@@ -61,7 +61,7 @@ Na co dzień prowadzę prace techniczne i administracyjne na serwerach Minecraft
 
 ## Aktywność Github
 
-![KlakierOnTop](https://github-readme-activity-graph.vercel.app/graph?username=00fr3szuuu&custom_title=Aktywność%20Github&bg_color=1a1b27&color=FFFFFF&line=0080ff&point=0040ff&area_color=0080ff&title_color=FFFFFF&area=true&hide_border=true)
+![KlakierOnTop](https://github-readme-activity-graph.vercel.app/graph?username=KlakierOnTop&custom_title=Aktywność%20Github&bg_color=1a1b27&color=FFFFFF&line=0080ff&point=0040ff&area_color=0080ff&title_color=FFFFFF&area=true&hide_border=true)
 
 ---
 
