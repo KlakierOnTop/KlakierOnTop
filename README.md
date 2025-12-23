@@ -25,6 +25,7 @@ Na co dzień prowadzę prace nad infrastrukturą techniczną oraz administracyjn
 * **CastleMC** – Administracja i zarządzanie infrastrukturą techniczną
 * **SelfMC** – Administracja i zarządzanie infrastrukturą techniczną
 * **FamHub** – Administracja i zarządzanie infrastrukturą techniczną
+* **HerosMC** - Administracja i zarządzanie infrastrukturą techniczną 
 * **StormCode** – Java Developer 
 
 ---
