@@ -27,7 +27,8 @@ Na co dzień prowadzę prace nad infrastrukturą techniczną oraz administracyjn
 * **FamHub** – Administracja i zarządzanie infrastrukturą techniczną
 * **HerosMC** - Administracja i zarządzanie infrastrukturą techniczną 
 * **LowMC** - Administracja i zarządzanie infrastrukturą techniczną 
-* **StormCode** – Java Developer 
+* **StormCode** – Java Developer
+* **FoverCode** - Java Developer
 
 ---
 
