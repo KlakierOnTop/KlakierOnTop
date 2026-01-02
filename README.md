@@ -29,6 +29,7 @@ Na co dzień prowadzę prace nad infrastrukturą techniczną oraz administracyjn
 * **LowMC** - Administracja i zarządzanie infrastrukturą techniczną 
 * **StormCode** – Java Developer
 * **FoverCode** - Java Developer
+* **777Code** - Java developer 
 
 ---
 
