@@ -68,7 +68,10 @@ Na co dzień prowadzę prace nad infrastrukturą techniczną oraz administracyjn
 </p>
 
 ---
+## Wykres Aktywności
+[![Wykres Aktywności](https://github-readme-activity-graph.vercel.app/graph?username=KlakierOnTop&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 ## Kontakt
 
 Skontaktuj się ze mną przez **Discord**:
