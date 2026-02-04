@@ -28,8 +28,6 @@ Na co dzień prowadzę prace nad infrastrukturą techniczną oraz administracyjn
 * **HerosMC** - Administracja i zarządzanie infrastrukturą techniczną 
 * **LowMC** - Administracja i zarządzanie infrastrukturą techniczną
 * **DiaxSMP** - Administracja i zarządzanie infrastrukturą techniczną
-* **StormCode** – Former Java Developer
-* **FoverCode** - Java Developer
 * **777Code** - Java Developer 
 
 ---
