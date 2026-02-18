@@ -8,7 +8,7 @@
 
 ## O mnie
 
-Jestem **programistą** i osobą silnie związaną ze **środowiskiem Minecraft**. Zajmuję się tworzeniem rozwiązań technicznych, optymalizacją oraz rozwojem **infrastruktury serwerowej**.
+Jestem **programistą** i osobą silnie związaną ze **środowiskiem Minecraft**. Zajmuję się tworzeniem rozwiązań technicznych, optymalizacją oraz rozwojem **infrastruktury serwerowej** 4 letnie doświadczenie.
 
 Moim celem jest zapewnianie **wydajnych, przejrzystych i bezawaryjnych rozwiązań**.
 
