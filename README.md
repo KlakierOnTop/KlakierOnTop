@@ -22,12 +22,12 @@ Moim celem jest zapewnianie **wydajnych, przejrzystych i bezawaryjnych rozwiąza
 
 Na co dzień prowadzę prace nad infrastrukturą techniczną oraz administracyjną na serwerach Minecraft:  
 
-* **CastleMC** – Administracja i zarządzanie infrastrukturą techniczną
-* **SelfMC** – Administracja i zarządzanie infrastrukturą techniczną
-* **HerosMC** - Administracja i zarządzanie infrastrukturą techniczną 
-* **LowMC** - Administracja i zarządzanie infrastrukturą techniczną
-* **DiaxSMP** - Administracja i zarządzanie infrastrukturą techniczną
-* **777Code** - Java Developer 
+* **CastleMC** – Administracja i zarządzanie infrastrukturą techniczną.
+* **SelfMC** – Administracja i zarządzanie infrastrukturą techniczną.
+* **HerosMC** - Administracja i zarządzanie infrastrukturą techniczną .
+* **LowMC** - Administracja i zarządzanie infrastrukturą techniczną.
+* **DiaxSMP** - Administracja i zarządzanie infrastrukturą techniczną.
+* **777Code** - Java Developer.
 
 ---
 
